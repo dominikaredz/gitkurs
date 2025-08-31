@@ -1,1 +1,1 @@
-# gitkurs
+# KURS GIT
